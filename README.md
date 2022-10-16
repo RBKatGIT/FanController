@@ -30,7 +30,7 @@ duty cycle linearly interpolated between 20% and 100% duty cycle.\
 
 
 This project can be run on LINUX only, since only the linux bindings needed for the GUI library is included.
-GUI library (Dear ImGui) is a cut down version from https://github.com/ocornut/imgui/tree/master/docs (All code inside folder fan_controller/external.)
+GUI library (Dear ImGui) is a cut down version from https://github.com/ocornut/imgui/tree/master/docs (All code inside folder external/imgui.)
 
 
 # How to Build
