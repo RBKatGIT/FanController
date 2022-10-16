@@ -48,6 +48,6 @@ Requires boost installation - After that in case of errors related to libboost s
     sudo ln -s /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.65.1 /usr/lib/x86_64-linux-gnu/libboost_thread.so
 
 # Notes
-In case of sdl errors please install
-    sudo apt-get install libglfw3 libglfw3-dev
+In case of sdl errors please install\
+    sudo apt-get install libglfw3 libglfw3-dev\
     sudo apt-get install libsdl2-dev
