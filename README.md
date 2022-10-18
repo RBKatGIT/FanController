@@ -44,7 +44,7 @@ GUI library (Dear ImGui) is a cut down version from https://github.com/ocornut/i
 To Change maximum values for sensor, fan counts and other configs - Refer to fan_controller/common.h
 
 # Dependencies 
-Requires boost installation - After that in case of errors related to libboost symlink creation may be required like in ex: below:
+Requires boost installation - After that in case of errors related to libboost symlink creation may be required like in ex: below:\
     sudo ln -s /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.65.1 /usr/lib/x86_64-linux-gnu/libboost_thread.so
 
 # Notes
