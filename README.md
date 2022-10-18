@@ -33,7 +33,7 @@ This project can be run on LINUX only, since only the linux bindings needed for 
 GUI library (Dear ImGui) is a cut down version from https://github.com/ocornut/imgui/tree/master/docs (All code inside folder external/imgui.)
 
 
-# How to Build
+# How to Build and run
 
     On linux
         cd fan_controller
